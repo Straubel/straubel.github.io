@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Straubel Blog</title>
+    <description></description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 14 Dec 2017 14:53:57 +0800</pubDate>
+    <lastBuildDate>Thu, 14 Dec 2017 14:53:57 +0800</lastBuildDate>
+    <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>跨域问题服务端header</title>
+        <description>&lt;!-- Chinese Version --&gt;
+&lt;div class=&quot;zh post-container&quot;&gt;
+    
+    &lt;p&gt;##Access-Control-Allow-Origin not allowed access&lt;/p&gt;
+
+&lt;div class=&quot;language-php highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nb&quot;&gt;header&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Access-Control-Allow-Origin:*'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;//允许跨域请求的域名，允许全部设为*
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+
+</description>
+        <pubDate>Sun, 21 Feb 2016 20:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2016/02/21/The-First-Posts/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/02/21/The-First-Posts/</guid>
+        
+        <category>Php</category>
+        
+        <category>后端技术</category>
+        
+        <category>接口</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
